@@ -55,6 +55,7 @@ public class myFrame extends JFrame implements ActionListener {
 		// ImageIcon image = new ImageIcon(
 			//	"C:\\Users\\andre_zmypf6d\\Documents\\Java (Projekte)\\Eclipse\\Taschenrechner\\src\\Taschenrechner.png");
 		// frame.setIconImage(image.getImage());
+		// 
 
 		frame.setVisible(true);
 		frame.add(userInputPanel);
